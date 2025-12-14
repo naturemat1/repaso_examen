@@ -1,0 +1,13 @@
+.venv/
+repaso_examen.egg-info
+.repaso/
+__pycache__/
+*.pyc
+.vscode/
+logs/
+*.log
+src/__pycache__/
+src/*.pyc
+tests/__pycache__/
+tests/*.pyc
+.pytest_cache/
